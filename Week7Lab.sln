@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "W7Lab", "W7Lab\W7Lab.csproj", "{DCCCF196-FBF7-4877-842A-F76505050CEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCCCF196-FBF7-4877-842A-F76505050CEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCCCF196-FBF7-4877-842A-F76505050CEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCCCF196-FBF7-4877-842A-F76505050CEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCCCF196-FBF7-4877-842A-F76505050CEB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CFD8BC2E-193A-4C8F-A900-2E9299CBC7D4}
+	EndGlobalSection
+EndGlobal
